@@ -2,6 +2,9 @@
  
  https://loginynotas.herokuapp.com/
  
+![Inicio](/auxi/aux1.PNG)
+![Ligas](/auxi/aux2.PNG)
+ 
  ## Base de datos: 
 * MongoDB
 
