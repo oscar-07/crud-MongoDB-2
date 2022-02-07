@@ -1,12 +1,5 @@
 # crud-MongoDB-2
- 
- https://loginynotas.herokuapp.com/
- 
-![Inicio](/auxi/aux1.PNG)
-![Ligas](/auxi/aux2.PNG)
 
-
- 
  ## Base de datos: 
 * MongoDB
 
@@ -27,6 +20,14 @@
 * express-validator: Version 5.3.0
 * mongoose: Version 6.0.10,
 * passport-local, 1.0.0
+
+
+
+ 
+ https://loginynotas.herokuapp.com/
+ 
+![Inicio](/auxi/aux1.PNG)
+![Ligas](/auxi/aux2.PNG)
 
 
 
